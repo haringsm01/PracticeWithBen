@@ -1,0 +1,24 @@
+---
+title: "Quantifying the Psychological Effect of Placing Booties on Willie's Feet"
+date: "8/12/2021"
+output:
+  word_document: default
+
+  pdf_document: default
+---
+
+Willie was traumatized by dog booties for the first time today and made it blatantly evident that this was the first time a doggo had ever been subjected to such a punishment; an in-depth study on the psychological impacts of said punishment ensued.
+
+While the following data have not yet been extensively analyzed, a trend is evident in the preliminary results below:
+
+```{r}
+library(ggplot2)
+x<-c(0,1,2,3,4)
+y<-c(0,10,50,200,600)
+df<-data.frame(x,y)
+col<-sort(rnorm(5))
+qplot(x,y,data=df,xlab="# booties on feets",ylab="# h*cks given",colour=col)+scale_colour_gradient(low="green", high="red")+geom_point(size = 3)+ggtitle("H*cks Given Based on Number of Booties on Willie's Feet")
+```
+
+This is truly a major breakthrough in understanding the emotions of doggos. For the sake of reproducibility, the author as chosen to include all R code used to create this graphic.
+
