@@ -3,8 +3,6 @@ title: "Quantifying the Psychological Effects of Placing Booties on Willie's Fee
 date: "8/12/2021"
 output:
   word_document: default
-
-  pdf_document: default
 ---
 
 Willie was traumatized by dog booties for the first time today and made it blatantly evident that this was the first time a doggo had ever been subjected to such a punishment; an in-depth study on the psychological impacts of said punishment ensued.
