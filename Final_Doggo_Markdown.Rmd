@@ -1,5 +1,5 @@
 ---
-title: "Quantifying the Psychological Effect of Placing Booties on Willie's Feet"
+title: "Quantifying the Psychological Effects of Placing Booties on Willie's Feet"
 date: "8/12/2021"
 output:
   word_document: default
